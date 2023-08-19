@@ -1,0 +1,1 @@
+Utility and helper functions that are used across your application. These functions can include date formatting, string manipulation, error handling, and other common tasks.

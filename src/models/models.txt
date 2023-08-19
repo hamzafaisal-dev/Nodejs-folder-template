@@ -1,0 +1,1 @@
+Defines data models and the database schema, encapsulating the interaction with your database.
